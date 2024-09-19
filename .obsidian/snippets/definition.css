@@ -1,0 +1,43 @@
+.markdown-source-view .definition::before,
+.markdown-preview-view .definition::before {
+  content: "Определение";
+  font-weight: 500;
+}
+
+.markdown-source-view .definition-group .definition::before,
+.markdown-preview-view .definition-group .definition::before {
+  content: "" !important;
+}
+
+.definition {
+  display: block;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  font-weight: 300;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25em;
+  margin: 1em 0;
+  background-color: hsl(255, 25%, 50%, 20%);
+  border: hsl(255, 25%, 50%, 50%) solid 1px;
+}
+
+.definition-group .definition {
+  margin: 0;
+}
+
+.definition-group {
+  display: block;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  margin: 1em 0;
+  border: hsl(255, 25%, 50%, 50%) solid 1px;
+}
+
+.definition-group::before {
+  content: "Определения";
+  font-weight: 500;
+}

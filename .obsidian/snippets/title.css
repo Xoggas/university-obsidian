@@ -1,0 +1,87 @@
+.title {
+  padding: 3em 4em;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: space-between;
+  height: calc(297mm - 1.5in);
+  border: 1px dashed rgba(128, 128, 128, 50%);
+}
+
+.title * {
+  margin: 0;
+  padding: 0;
+}
+
+.markdown-preview-view .title * {
+  margin: 0;
+  padding: 0;
+}
+
+.markdown-preview-view .title {
+  margin: 0;
+}
+
+.header {
+  padding: 0 5em;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.header__university-name {
+  font-weight: 500;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+}
+
+.main__title {
+  font-weight: 500;
+}
+
+.main__subject {}
+
+.main__topic {}
+
+.footer {
+  align-self: end;
+}
+
+.footer__student-info {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+}
+
+.footer__student-info__title {
+  text-align: right;
+  font-weight: 500;
+}
+
+.footer__student-info__item {
+  text-align: right;
+}
+
+.footer__teachers-info {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+}
+
+.footer__teachers-info__title {
+  text-align: right;
+  font-weight: 500;
+}
+
+.footer__teachers-info__item {
+  text-align: right;
+}
+
+.date {
+  font-size: 0.9em;
+  font-weight: 300;
+}

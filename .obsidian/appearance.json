@@ -1,1 +1,11 @@
-{}
+{
+  "enabledCssSnippets": [
+    "title",
+    "definition",
+    "table",
+    "tip",
+    "image"
+  ],
+  "textFontFamily": "Roboto",
+  "monospaceFontFamily": "JetBrains Mono"
+}

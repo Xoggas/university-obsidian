@@ -1,0 +1,99 @@
+.text-left {
+  text-align: left !important;
+}
+
+.text-right {
+  text-align: right !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.text-left td {
+  text-align: left;
+}
+
+.text-right td {
+  text-align: right;
+}
+
+.text-center td {
+  text-align: center;
+}
+
+.text-left tr td {
+  text-align: left;
+}
+
+.text-right tr td {
+  text-align: right;
+}
+
+.text-center tr td {
+  text-align: center;
+}
+
+.text-left tr th {
+  text-align: left;
+}
+
+.text-right tr th {
+  text-align: right;
+}
+
+.text-center tr th {
+  text-align: center;
+}
+
+.va-top {
+  vertical-align: top !important;
+}
+
+.va-center {
+  vertical-align: middle !important;
+}
+
+.va-bottom {
+  vertical-align: bottom !important;
+}
+
+.va-top td {
+  vertical-align: top;
+}
+
+.va-center td {
+  vertical-align: middle;
+}
+
+.va-bottom td {
+  vertical-align: bottom;
+}
+
+.va-top tr td {
+  vertical-align: top;
+}
+
+.va-top tr th {
+  vertical-align: top;
+}
+
+.va-center tr td {
+  vertical-align: middle;
+}
+
+.va-center tr th {
+  vertical-align: middle;
+}
+
+.va-bottom tr td {
+  vertical-align: bottom;
+}
+
+.va-bottom tr th {
+  vertical-align: bottom;
+}
+
+table {
+  margin: 1em 0;
+}
