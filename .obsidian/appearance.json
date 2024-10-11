@@ -5,7 +5,8 @@
     "table",
     "tip",
     "image",
-    "page-break"
+    "page-break",
+    "text"
   ],
   "textFontFamily": "Roboto",
   "monospaceFontFamily": "JetBrains Mono"
