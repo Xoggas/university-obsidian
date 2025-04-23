@@ -1,0 +1,599 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="348pt" height="4395pt" viewBox="0.00 0.00 348.34 4395.20">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 4391.2)">
+<title>LeftDerivation</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-4391.2 344.34,-4391.2 344.34,4 -4,4"/>
+<!-- S -->
+<g id="node1" class="node">
+<title>S</title>
+<text text-anchor="middle" x="170.17" y="-4365" font-family="Times,serif" font-size="14.00">S</text>
+</g>
+<!-- Step1 -->
+<g id="node2" class="node">
+<title>Step1</title>
+<text text-anchor="middle" x="170.17" y="-4276.2" font-family="Times,serif" font-size="14.00">aN2;N1</text>
+</g>
+<!-- S&#45;&gt;Step1 -->
+<g id="edge1" class="edge">
+<title>S-&gt;Step1</title>
+<path fill="none" stroke="black" d="M170.17,-4351.46C170.17,-4339.53 170.17,-4323.21 170.17,-4309.32"/>
+<polygon fill="black" stroke="black" points="170.17,-4299.6 174.67,-4309.6 170.17,-4303.38 170.17,-4309.6 170.17,-4309.6 170.17,-4309.6 170.17,-4303.38 165.67,-4309.6 170.17,-4299.6"/>
+<text text-anchor="middle" x="173.67" y="-4320.6" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- Step2 -->
+<g id="node3" class="node">
+<title>Step2</title>
+<text text-anchor="middle" x="170.17" y="-4187.4" font-family="Times,serif" font-size="14.00">a[S]N3;N1</text>
+</g>
+<!-- Step1&#45;&gt;Step2 -->
+<g id="edge2" class="edge">
+<title>Step1-&gt;Step2</title>
+<path fill="none" stroke="black" d="M170.17,-4262.66C170.17,-4250.73 170.17,-4234.41 170.17,-4220.52"/>
+<polygon fill="black" stroke="black" points="170.17,-4210.8 174.67,-4220.8 170.17,-4214.58 170.17,-4220.8 170.17,-4220.8 170.17,-4220.8 170.17,-4214.58 165.67,-4220.8 170.17,-4210.8"/>
+<text text-anchor="middle" x="173.67" y="-4231.8" font-family="Times,serif" font-size="14.00">4</text>
+</g>
+<!-- Step3 -->
+<g id="node4" class="node">
+<title>Step3</title>
+<text text-anchor="middle" x="170.17" y="-4098.6" font-family="Times,serif" font-size="14.00">a[aN2;N1]N3;N1</text>
+</g>
+<!-- Step2&#45;&gt;Step3 -->
+<g id="edge3" class="edge">
+<title>Step2-&gt;Step3</title>
+<path fill="none" stroke="black" d="M170.17,-4173.86C170.17,-4161.93 170.17,-4145.61 170.17,-4131.72"/>
+<polygon fill="black" stroke="black" points="170.17,-4122 174.67,-4132 170.17,-4125.78 170.17,-4132 170.17,-4132 170.17,-4132 170.17,-4125.78 165.67,-4132 170.17,-4122"/>
+<text text-anchor="middle" x="173.67" y="-4143" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- Step4 -->
+<g id="node5" class="node">
+<title>Step4</title>
+<text text-anchor="middle" x="170.17" y="-4009.8" font-family="Times,serif" font-size="14.00">a[a=E;N1]N3;N1</text>
+</g>
+<!-- Step3&#45;&gt;Step4 -->
+<g id="edge4" class="edge">
+<title>Step3-&gt;Step4</title>
+<path fill="none" stroke="black" d="M170.17,-4085.06C170.17,-4073.13 170.17,-4056.81 170.17,-4042.92"/>
+<polygon fill="black" stroke="black" points="170.17,-4033.2 174.67,-4043.2 170.17,-4036.98 170.17,-4043.2 170.17,-4043.2 170.17,-4043.2 170.17,-4036.98 165.67,-4043.2 170.17,-4033.2"/>
+<text text-anchor="middle" x="173.67" y="-4054.2" font-family="Times,serif" font-size="14.00">5</text>
+</g>
+<!-- Step5 -->
+<g id="node6" class="node">
+<title>Step5</title>
+<text text-anchor="middle" x="170.17" y="-3921" font-family="Times,serif" font-size="14.00">a[a=(E)T'E';N1]N3;N1</text>
+</g>
+<!-- Step4&#45;&gt;Step5 -->
+<g id="edge5" class="edge">
+<title>Step4-&gt;Step5</title>
+<path fill="none" stroke="black" d="M170.17,-3996.26C170.17,-3984.33 170.17,-3968.01 170.17,-3954.12"/>
+<polygon fill="black" stroke="black" points="170.17,-3944.4 174.67,-3954.4 170.17,-3948.18 170.17,-3954.4 170.17,-3954.4 170.17,-3954.4 170.17,-3948.18 165.67,-3954.4 170.17,-3944.4"/>
+<text text-anchor="middle" x="173.67" y="-3965.4" font-family="Times,serif" font-size="14.00">8</text>
+</g>
+<!-- Step6 -->
+<g id="node7" class="node">
+<title>Step6</title>
+<text text-anchor="middle" x="170.17" y="-3832.2" font-family="Times,serif" font-size="14.00">a[a=(-(E)T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step5&#45;&gt;Step6 -->
+<g id="edge6" class="edge">
+<title>Step5-&gt;Step6</title>
+<path fill="none" stroke="black" d="M170.17,-3907.46C170.17,-3895.53 170.17,-3879.21 170.17,-3865.32"/>
+<polygon fill="black" stroke="black" points="170.17,-3855.6 174.67,-3865.6 170.17,-3859.38 170.17,-3865.6 170.17,-3865.6 170.17,-3865.6 170.17,-3859.38 165.67,-3865.6 170.17,-3855.6"/>
+<text text-anchor="middle" x="173.67" y="-3876.6" font-family="Times,serif" font-size="14.00">9</text>
+</g>
+<!-- Step7 -->
+<g id="node8" class="node">
+<title>Step7</title>
+<text text-anchor="middle" x="170.17" y="-3743.4" font-family="Times,serif" font-size="14.00">a[a=(-(aT'E')T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step6&#45;&gt;Step7 -->
+<g id="edge7" class="edge">
+<title>Step6-&gt;Step7</title>
+<path fill="none" stroke="black" d="M170.17,-3818.66C170.17,-3806.73 170.17,-3790.41 170.17,-3776.52"/>
+<polygon fill="black" stroke="black" points="170.17,-3766.8 174.67,-3776.8 170.17,-3770.58 170.17,-3776.8 170.17,-3776.8 170.17,-3776.8 170.17,-3770.58 165.67,-3776.8 170.17,-3766.8"/>
+<text text-anchor="middle" x="177.17" y="-3787.8" font-family="Times,serif" font-size="14.00">10</text>
+</g>
+<!-- Step8 -->
+<g id="node9" class="node">
+<title>Step8</title>
+<text text-anchor="middle" x="170.17" y="-3654.6" font-family="Times,serif" font-size="14.00">a[a=(-(a*PT'E')T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step7&#45;&gt;Step8 -->
+<g id="edge8" class="edge">
+<title>Step7-&gt;Step8</title>
+<path fill="none" stroke="black" d="M170.17,-3729.86C170.17,-3717.93 170.17,-3701.61 170.17,-3687.72"/>
+<polygon fill="black" stroke="black" points="170.17,-3678 174.67,-3688 170.17,-3681.78 170.17,-3688 170.17,-3688 170.17,-3688 170.17,-3681.78 165.67,-3688 170.17,-3678"/>
+<text text-anchor="middle" x="177.17" y="-3699" font-family="Times,serif" font-size="14.00">16</text>
+</g>
+<!-- Step9 -->
+<g id="node10" class="node">
+<title>Step9</title>
+<text text-anchor="middle" x="170.17" y="-3565.8" font-family="Times,serif" font-size="14.00">a[a=(-(a*(E)T'E')T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step8&#45;&gt;Step9 -->
+<g id="edge9" class="edge">
+<title>Step8-&gt;Step9</title>
+<path fill="none" stroke="black" d="M170.17,-3641.06C170.17,-3629.13 170.17,-3612.81 170.17,-3598.92"/>
+<polygon fill="black" stroke="black" points="170.17,-3589.2 174.67,-3599.2 170.17,-3592.98 170.17,-3599.2 170.17,-3599.2 170.17,-3599.2 170.17,-3592.98 165.67,-3599.2 170.17,-3589.2"/>
+<text text-anchor="middle" x="177.17" y="-3610.2" font-family="Times,serif" font-size="14.00">18</text>
+</g>
+<!-- Step10 -->
+<g id="node11" class="node">
+<title>Step10</title>
+<text text-anchor="middle" x="170.17" y="-3477" font-family="Times,serif" font-size="14.00">a[a=(-(a*(aT'E')T'E')T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step9&#45;&gt;Step10 -->
+<g id="edge10" class="edge">
+<title>Step9-&gt;Step10</title>
+<path fill="none" stroke="black" d="M170.17,-3552.26C170.17,-3540.33 170.17,-3524.01 170.17,-3510.12"/>
+<polygon fill="black" stroke="black" points="170.17,-3500.4 174.67,-3510.4 170.17,-3504.18 170.17,-3510.4 170.17,-3510.4 170.17,-3510.4 170.17,-3504.18 165.67,-3510.4 170.17,-3500.4"/>
+<text text-anchor="middle" x="177.17" y="-3521.4" font-family="Times,serif" font-size="14.00">10</text>
+</g>
+<!-- Step11 -->
+<g id="node12" class="node">
+<title>Step11</title>
+<text text-anchor="middle" x="170.17" y="-3388.2" font-family="Times,serif" font-size="14.00">a[a=(-(a*(aE')T'E')T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step10&#45;&gt;Step11 -->
+<g id="edge11" class="edge">
+<title>Step10-&gt;Step11</title>
+<path fill="none" stroke="black" d="M170.17,-3463.46C170.17,-3451.53 170.17,-3435.21 170.17,-3421.32"/>
+<polygon fill="black" stroke="black" points="170.17,-3411.6 174.67,-3421.6 170.17,-3415.38 170.17,-3421.6 170.17,-3421.6 170.17,-3421.6 170.17,-3415.38 165.67,-3421.6 170.17,-3411.6"/>
+<text text-anchor="middle" x="177.17" y="-3432.6" font-family="Times,serif" font-size="14.00">17</text>
+</g>
+<!-- Step12 -->
+<g id="node13" class="node">
+<title>Step12</title>
+<text text-anchor="middle" x="170.17" y="-3299.4" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+TE')T'E')T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step11&#45;&gt;Step12 -->
+<g id="edge12" class="edge">
+<title>Step11-&gt;Step12</title>
+<path fill="none" stroke="black" d="M170.17,-3374.66C170.17,-3362.73 170.17,-3346.41 170.17,-3332.52"/>
+<polygon fill="black" stroke="black" points="170.17,-3322.8 174.67,-3332.8 170.17,-3326.58 170.17,-3332.8 170.17,-3332.8 170.17,-3332.8 170.17,-3326.58 165.67,-3332.8 170.17,-3322.8"/>
+<text text-anchor="middle" x="177.17" y="-3343.8" font-family="Times,serif" font-size="14.00">11</text>
+</g>
+<!-- Step13 -->
+<g id="node14" class="node">
+<title>Step13</title>
+<text text-anchor="middle" x="170.17" y="-3210.6" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(E)T'E')T'E')T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step12&#45;&gt;Step13 -->
+<g id="edge13" class="edge">
+<title>Step12-&gt;Step13</title>
+<path fill="none" stroke="black" d="M170.17,-3285.86C170.17,-3273.93 170.17,-3257.61 170.17,-3243.72"/>
+<polygon fill="black" stroke="black" points="170.17,-3234 174.67,-3244 170.17,-3237.78 170.17,-3244 170.17,-3244 170.17,-3244 170.17,-3237.78 165.67,-3244 170.17,-3234"/>
+<text text-anchor="middle" x="177.17" y="-3255" font-family="Times,serif" font-size="14.00">13</text>
+</g>
+<!-- Step14 -->
+<g id="node15" class="node">
+<title>Step14</title>
+<text text-anchor="middle" x="170.17" y="-3121.8" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(aT'E')T'E')T'E')T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step13&#45;&gt;Step14 -->
+<g id="edge14" class="edge">
+<title>Step13-&gt;Step14</title>
+<path fill="none" stroke="black" d="M170.17,-3197.06C170.17,-3185.13 170.17,-3168.81 170.17,-3154.92"/>
+<polygon fill="black" stroke="black" points="170.17,-3145.2 174.67,-3155.2 170.17,-3148.98 170.17,-3155.2 170.17,-3155.2 170.17,-3155.2 170.17,-3148.98 165.67,-3155.2 170.17,-3145.2"/>
+<text text-anchor="middle" x="177.17" y="-3166.2" font-family="Times,serif" font-size="14.00">10</text>
+</g>
+<!-- Step15 -->
+<g id="node16" class="node">
+<title>Step15</title>
+<text text-anchor="middle" x="170.17" y="-3033" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*PT'E')T'E')T'E')T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step14&#45;&gt;Step15 -->
+<g id="edge15" class="edge">
+<title>Step14-&gt;Step15</title>
+<path fill="none" stroke="black" d="M170.17,-3108.26C170.17,-3096.33 170.17,-3080.01 170.17,-3066.12"/>
+<polygon fill="black" stroke="black" points="170.17,-3056.4 174.67,-3066.4 170.17,-3060.18 170.17,-3066.4 170.17,-3066.4 170.17,-3066.4 170.17,-3060.18 165.67,-3066.4 170.17,-3056.4"/>
+<text text-anchor="middle" x="177.17" y="-3077.4" font-family="Times,serif" font-size="14.00">16</text>
+</g>
+<!-- Step16 -->
+<g id="node17" class="node">
+<title>Step16</title>
+<text text-anchor="middle" x="170.17" y="-2944.2" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(E)T'E')T'E')T'E')T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step15&#45;&gt;Step16 -->
+<g id="edge16" class="edge">
+<title>Step15-&gt;Step16</title>
+<path fill="none" stroke="black" d="M170.17,-3019.46C170.17,-3007.53 170.17,-2991.21 170.17,-2977.32"/>
+<polygon fill="black" stroke="black" points="170.17,-2967.6 174.67,-2977.6 170.17,-2971.38 170.17,-2977.6 170.17,-2977.6 170.17,-2977.6 170.17,-2971.38 165.67,-2977.6 170.17,-2967.6"/>
+<text text-anchor="middle" x="177.17" y="-2988.6" font-family="Times,serif" font-size="14.00">19</text>
+</g>
+<!-- Step17 -->
+<g id="node18" class="node">
+<title>Step17</title>
+<text text-anchor="middle" x="170.17" y="-2855.4" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(aT'E')T'E')T'E')T'E')T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step16&#45;&gt;Step17 -->
+<g id="edge17" class="edge">
+<title>Step16-&gt;Step17</title>
+<path fill="none" stroke="black" d="M170.17,-2930.66C170.17,-2918.73 170.17,-2902.41 170.17,-2888.52"/>
+<polygon fill="black" stroke="black" points="170.17,-2878.8 174.67,-2888.8 170.17,-2882.58 170.17,-2888.8 170.17,-2888.8 170.17,-2888.8 170.17,-2882.58 165.67,-2888.8 170.17,-2878.8"/>
+<text text-anchor="middle" x="177.17" y="-2899.8" font-family="Times,serif" font-size="14.00">10</text>
+</g>
+<!-- Step18 -->
+<g id="node19" class="node">
+<title>Step18</title>
+<text text-anchor="middle" x="170.17" y="-2766.6" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(aE')T'E')T'E')T'E')T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step17&#45;&gt;Step18 -->
+<g id="edge18" class="edge">
+<title>Step17-&gt;Step18</title>
+<path fill="none" stroke="black" d="M170.17,-2841.86C170.17,-2829.93 170.17,-2813.61 170.17,-2799.72"/>
+<polygon fill="black" stroke="black" points="170.17,-2790 174.67,-2800 170.17,-2793.78 170.17,-2800 170.17,-2800 170.17,-2800 170.17,-2793.78 165.67,-2800 170.17,-2790"/>
+<text text-anchor="middle" x="177.17" y="-2811" font-family="Times,serif" font-size="14.00">17</text>
+</g>
+<!-- Step19 -->
+<g id="node20" class="node">
+<title>Step19</title>
+<text text-anchor="middle" x="170.17" y="-2677.8" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)T'E')T'E')T'E')T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step18&#45;&gt;Step19 -->
+<g id="edge19" class="edge">
+<title>Step18-&gt;Step19</title>
+<path fill="none" stroke="black" d="M170.17,-2753.06C170.17,-2741.13 170.17,-2724.81 170.17,-2710.92"/>
+<polygon fill="black" stroke="black" points="170.17,-2701.2 174.67,-2711.2 170.17,-2704.98 170.17,-2711.2 170.17,-2711.2 170.17,-2711.2 170.17,-2704.98 165.67,-2711.2 170.17,-2701.2"/>
+<text text-anchor="middle" x="177.17" y="-2722.2" font-family="Times,serif" font-size="14.00">12</text>
+</g>
+<!-- Step20 -->
+<g id="node21" class="node">
+<title>Step20</title>
+<text text-anchor="middle" x="170.17" y="-2589" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*PT'E')T'E')T'E')T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step19&#45;&gt;Step20 -->
+<g id="edge20" class="edge">
+<title>Step19-&gt;Step20</title>
+<path fill="none" stroke="black" d="M170.17,-2664.26C170.17,-2652.33 170.17,-2636.01 170.17,-2622.12"/>
+<polygon fill="black" stroke="black" points="170.17,-2612.4 174.67,-2622.4 170.17,-2616.18 170.17,-2622.4 170.17,-2622.4 170.17,-2622.4 170.17,-2616.18 165.67,-2622.4 170.17,-2612.4"/>
+<text text-anchor="middle" x="177.17" y="-2633.4" font-family="Times,serif" font-size="14.00">16</text>
+</g>
+<!-- Step21 -->
+<g id="node22" class="node">
+<title>Step21</title>
+<text text-anchor="middle" x="170.17" y="-2500.2" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*aT'E')T'E')T'E')T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step20&#45;&gt;Step21 -->
+<g id="edge21" class="edge">
+<title>Step20-&gt;Step21</title>
+<path fill="none" stroke="black" d="M170.17,-2575.46C170.17,-2563.53 170.17,-2547.21 170.17,-2533.32"/>
+<polygon fill="black" stroke="black" points="170.17,-2523.6 174.67,-2533.6 170.17,-2527.38 170.17,-2533.6 170.17,-2533.6 170.17,-2533.6 170.17,-2527.38 165.67,-2533.6 170.17,-2523.6"/>
+<text text-anchor="middle" x="177.17" y="-2544.6" font-family="Times,serif" font-size="14.00">20</text>
+</g>
+<!-- Step22 -->
+<g id="node23" class="node">
+<title>Step22</title>
+<text text-anchor="middle" x="170.17" y="-2411.4" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*aE')T'E')T'E')T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step21&#45;&gt;Step22 -->
+<g id="edge22" class="edge">
+<title>Step21-&gt;Step22</title>
+<path fill="none" stroke="black" d="M170.17,-2486.66C170.17,-2474.73 170.17,-2458.41 170.17,-2444.52"/>
+<polygon fill="black" stroke="black" points="170.17,-2434.8 174.67,-2444.8 170.17,-2438.58 170.17,-2444.8 170.17,-2444.8 170.17,-2444.8 170.17,-2438.58 165.67,-2444.8 170.17,-2434.8"/>
+<text text-anchor="middle" x="177.17" y="-2455.8" font-family="Times,serif" font-size="14.00">17</text>
+</g>
+<!-- Step23 -->
+<g id="node24" class="node">
+<title>Step23</title>
+<text text-anchor="middle" x="170.17" y="-2322.6" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a)T'E')T'E')T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step22&#45;&gt;Step23 -->
+<g id="edge23" class="edge">
+<title>Step22-&gt;Step23</title>
+<path fill="none" stroke="black" d="M170.17,-2397.86C170.17,-2385.93 170.17,-2369.61 170.17,-2355.72"/>
+<polygon fill="black" stroke="black" points="170.17,-2346 174.67,-2356 170.17,-2349.78 170.17,-2356 170.17,-2356 170.17,-2356 170.17,-2349.78 165.67,-2356 170.17,-2346"/>
+<text text-anchor="middle" x="177.17" y="-2367" font-family="Times,serif" font-size="14.00">12</text>
+</g>
+<!-- Step24 -->
+<g id="node25" class="node">
+<title>Step24</title>
+<text text-anchor="middle" x="170.17" y="-2233.8" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a)E')T'E')T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step23&#45;&gt;Step24 -->
+<g id="edge24" class="edge">
+<title>Step23-&gt;Step24</title>
+<path fill="none" stroke="black" d="M170.17,-2309.06C170.17,-2297.13 170.17,-2280.81 170.17,-2266.92"/>
+<polygon fill="black" stroke="black" points="170.17,-2257.2 174.67,-2267.2 170.17,-2260.98 170.17,-2267.2 170.17,-2267.2 170.17,-2267.2 170.17,-2260.98 165.67,-2267.2 170.17,-2257.2"/>
+<text text-anchor="middle" x="177.17" y="-2278.2" font-family="Times,serif" font-size="14.00">17</text>
+</g>
+<!-- Step25 -->
+<g id="node26" class="node">
+<title>Step25</title>
+<text text-anchor="middle" x="170.17" y="-2145" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))T'E')T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step24&#45;&gt;Step25 -->
+<g id="edge25" class="edge">
+<title>Step24-&gt;Step25</title>
+<path fill="none" stroke="black" d="M170.17,-2220.26C170.17,-2208.33 170.17,-2192.01 170.17,-2178.12"/>
+<polygon fill="black" stroke="black" points="170.17,-2168.4 174.67,-2178.4 170.17,-2172.18 170.17,-2178.4 170.17,-2178.4 170.17,-2178.4 170.17,-2172.18 165.67,-2178.4 170.17,-2168.4"/>
+<text text-anchor="middle" x="177.17" y="-2189.4" font-family="Times,serif" font-size="14.00">12</text>
+</g>
+<!-- Step26 -->
+<g id="node27" class="node">
+<title>Step26</title>
+<text text-anchor="middle" x="170.17" y="-2056.2" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))E')T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step25&#45;&gt;Step26 -->
+<g id="edge26" class="edge">
+<title>Step25-&gt;Step26</title>
+<path fill="none" stroke="black" d="M170.17,-2131.46C170.17,-2119.53 170.17,-2103.21 170.17,-2089.32"/>
+<polygon fill="black" stroke="black" points="170.17,-2079.6 174.67,-2089.6 170.17,-2083.38 170.17,-2089.6 170.17,-2089.6 170.17,-2089.6 170.17,-2083.38 165.67,-2089.6 170.17,-2079.6"/>
+<text text-anchor="middle" x="177.17" y="-2100.6" font-family="Times,serif" font-size="14.00">17</text>
+</g>
+<!-- Step27 -->
+<g id="node28" class="node">
+<title>Step27</title>
+<text text-anchor="middle" x="170.17" y="-1967.4" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a)))T'E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step26&#45;&gt;Step27 -->
+<g id="edge27" class="edge">
+<title>Step26-&gt;Step27</title>
+<path fill="none" stroke="black" d="M170.17,-2042.66C170.17,-2030.73 170.17,-2014.41 170.17,-2000.52"/>
+<polygon fill="black" stroke="black" points="170.17,-1990.8 174.67,-2000.8 170.17,-1994.58 170.17,-2000.8 170.17,-2000.8 170.17,-2000.8 170.17,-1994.58 165.67,-2000.8 170.17,-1990.8"/>
+<text text-anchor="middle" x="177.17" y="-2011.8" font-family="Times,serif" font-size="14.00">12</text>
+</g>
+<!-- Step28 -->
+<g id="node29" class="node">
+<title>Step28</title>
+<text text-anchor="middle" x="170.17" y="-1878.6" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a)))E')T'E';N1]N3;N1</text>
+</g>
+<!-- Step27&#45;&gt;Step28 -->
+<g id="edge28" class="edge">
+<title>Step27-&gt;Step28</title>
+<path fill="none" stroke="black" d="M170.17,-1953.86C170.17,-1941.93 170.17,-1925.61 170.17,-1911.72"/>
+<polygon fill="black" stroke="black" points="170.17,-1902 174.67,-1912 170.17,-1905.78 170.17,-1912 170.17,-1912 170.17,-1912 170.17,-1905.78 165.67,-1912 170.17,-1902"/>
+<text text-anchor="middle" x="177.17" y="-1923" font-family="Times,serif" font-size="14.00">17</text>
+</g>
+<!-- Step29 -->
+<g id="node30" class="node">
+<title>Step29</title>
+<text text-anchor="middle" x="170.17" y="-1789.8" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))))T'E';N1]N3;N1</text>
+</g>
+<!-- Step28&#45;&gt;Step29 -->
+<g id="edge29" class="edge">
+<title>Step28-&gt;Step29</title>
+<path fill="none" stroke="black" d="M170.17,-1865.06C170.17,-1853.13 170.17,-1836.81 170.17,-1822.92"/>
+<polygon fill="black" stroke="black" points="170.17,-1813.2 174.67,-1823.2 170.17,-1816.98 170.17,-1823.2 170.17,-1823.2 170.17,-1823.2 170.17,-1816.98 165.67,-1823.2 170.17,-1813.2"/>
+<text text-anchor="middle" x="177.17" y="-1834.2" font-family="Times,serif" font-size="14.00">12</text>
+</g>
+<!-- Step30 -->
+<g id="node31" class="node">
+<title>Step30</title>
+<text text-anchor="middle" x="170.17" y="-1701" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))))E';N1]N3;N1</text>
+</g>
+<!-- Step29&#45;&gt;Step30 -->
+<g id="edge30" class="edge">
+<title>Step29-&gt;Step30</title>
+<path fill="none" stroke="black" d="M170.17,-1776.26C170.17,-1764.33 170.17,-1748.01 170.17,-1734.12"/>
+<polygon fill="black" stroke="black" points="170.17,-1724.4 174.67,-1734.4 170.17,-1728.18 170.17,-1734.4 170.17,-1734.4 170.17,-1734.4 170.17,-1728.18 165.67,-1734.4 170.17,-1724.4"/>
+<text text-anchor="middle" x="177.17" y="-1745.4" font-family="Times,serif" font-size="14.00">17</text>
+</g>
+<!-- Step31 -->
+<g id="node32" class="node">
+<title>Step31</title>
+<text text-anchor="middle" x="170.17" y="-1612.2" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))));N1]N3;N1</text>
+</g>
+<!-- Step30&#45;&gt;Step31 -->
+<g id="edge31" class="edge">
+<title>Step30-&gt;Step31</title>
+<path fill="none" stroke="black" d="M170.17,-1687.46C170.17,-1675.53 170.17,-1659.21 170.17,-1645.32"/>
+<polygon fill="black" stroke="black" points="170.17,-1635.6 174.67,-1645.6 170.17,-1639.38 170.17,-1645.6 170.17,-1645.6 170.17,-1645.6 170.17,-1639.38 165.67,-1645.6 170.17,-1635.6"/>
+<text text-anchor="middle" x="177.17" y="-1656.6" font-family="Times,serif" font-size="14.00">12</text>
+</g>
+<!-- Step32 -->
+<g id="node33" class="node">
+<title>Step32</title>
+<text text-anchor="middle" x="170.17" y="-1523.4" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))));aN2;N1]N3;N1</text>
+</g>
+<!-- Step31&#45;&gt;Step32 -->
+<g id="edge32" class="edge">
+<title>Step31-&gt;Step32</title>
+<path fill="none" stroke="black" d="M170.17,-1598.66C170.17,-1586.73 170.17,-1570.41 170.17,-1556.52"/>
+<polygon fill="black" stroke="black" points="170.17,-1546.8 174.67,-1556.8 170.17,-1550.58 170.17,-1556.8 170.17,-1556.8 170.17,-1556.8 170.17,-1550.58 165.67,-1556.8 170.17,-1546.8"/>
+<text text-anchor="middle" x="173.67" y="-1567.8" font-family="Times,serif" font-size="14.00">2</text>
+</g>
+<!-- Step33 -->
+<g id="node34" class="node">
+<title>Step33</title>
+<text text-anchor="middle" x="170.17" y="-1434.6" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))));a=E;N1]N3;N1</text>
+</g>
+<!-- Step32&#45;&gt;Step33 -->
+<g id="edge33" class="edge">
+<title>Step32-&gt;Step33</title>
+<path fill="none" stroke="black" d="M170.17,-1509.86C170.17,-1497.93 170.17,-1481.61 170.17,-1467.72"/>
+<polygon fill="black" stroke="black" points="170.17,-1458 174.67,-1468 170.17,-1461.78 170.17,-1468 170.17,-1468 170.17,-1468 170.17,-1461.78 165.67,-1468 170.17,-1458"/>
+<text text-anchor="middle" x="173.67" y="-1479" font-family="Times,serif" font-size="14.00">5</text>
+</g>
+<!-- Step34 -->
+<g id="node35" class="node">
+<title>Step34</title>
+<text text-anchor="middle" x="170.17" y="-1345.8" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))));a=aT'E';N1]N3;N1</text>
+</g>
+<!-- Step33&#45;&gt;Step34 -->
+<g id="edge34" class="edge">
+<title>Step33-&gt;Step34</title>
+<path fill="none" stroke="black" d="M170.17,-1421.06C170.17,-1409.13 170.17,-1392.81 170.17,-1378.92"/>
+<polygon fill="black" stroke="black" points="170.17,-1369.2 174.67,-1379.2 170.17,-1372.98 170.17,-1379.2 170.17,-1379.2 170.17,-1379.2 170.17,-1372.98 165.67,-1379.2 170.17,-1369.2"/>
+<text text-anchor="middle" x="177.17" y="-1390.2" font-family="Times,serif" font-size="14.00">10</text>
+</g>
+<!-- Step35 -->
+<g id="node36" class="node">
+<title>Step35</title>
+<text text-anchor="middle" x="170.17" y="-1257" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))));a=aE';N1]N3;N1</text>
+</g>
+<!-- Step34&#45;&gt;Step35 -->
+<g id="edge35" class="edge">
+<title>Step34-&gt;Step35</title>
+<path fill="none" stroke="black" d="M170.17,-1332.26C170.17,-1320.33 170.17,-1304.01 170.17,-1290.12"/>
+<polygon fill="black" stroke="black" points="170.17,-1280.4 174.67,-1290.4 170.17,-1284.18 170.17,-1290.4 170.17,-1290.4 170.17,-1290.4 170.17,-1284.18 165.67,-1290.4 170.17,-1280.4"/>
+<text text-anchor="middle" x="177.17" y="-1301.4" font-family="Times,serif" font-size="14.00">17</text>
+</g>
+<!-- Step36 -->
+<g id="node37" class="node">
+<title>Step36</title>
+<text text-anchor="middle" x="170.17" y="-1168.2" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))));a=a;N1]N3;N1</text>
+</g>
+<!-- Step35&#45;&gt;Step36 -->
+<g id="edge36" class="edge">
+<title>Step35-&gt;Step36</title>
+<path fill="none" stroke="black" d="M170.17,-1243.46C170.17,-1231.53 170.17,-1215.21 170.17,-1201.32"/>
+<polygon fill="black" stroke="black" points="170.17,-1191.6 174.67,-1201.6 170.17,-1195.38 170.17,-1201.6 170.17,-1201.6 170.17,-1201.6 170.17,-1195.38 165.67,-1201.6 170.17,-1191.6"/>
+<text text-anchor="middle" x="177.17" y="-1212.6" font-family="Times,serif" font-size="14.00">12</text>
+</g>
+<!-- Step37 -->
+<g id="node38" class="node">
+<title>Step37</title>
+<text text-anchor="middle" x="170.17" y="-1079.4" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))));a=a;]N3;N1</text>
+</g>
+<!-- Step36&#45;&gt;Step37 -->
+<g id="edge37" class="edge">
+<title>Step36-&gt;Step37</title>
+<path fill="none" stroke="black" d="M170.17,-1154.66C170.17,-1142.73 170.17,-1126.41 170.17,-1112.52"/>
+<polygon fill="black" stroke="black" points="170.17,-1102.8 174.67,-1112.8 170.17,-1106.58 170.17,-1112.8 170.17,-1112.8 170.17,-1112.8 170.17,-1106.58 165.67,-1112.8 170.17,-1102.8"/>
+<text text-anchor="middle" x="173.67" y="-1123.8" font-family="Times,serif" font-size="14.00">3</text>
+</g>
+<!-- Step38 -->
+<g id="node39" class="node">
+<title>Step38</title>
+<text text-anchor="middle" x="170.17" y="-990.6" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))));a=a;][S];N1</text>
+</g>
+<!-- Step37&#45;&gt;Step38 -->
+<g id="edge38" class="edge">
+<title>Step37-&gt;Step38</title>
+<path fill="none" stroke="black" d="M170.17,-1065.86C170.17,-1053.93 170.17,-1037.61 170.17,-1023.72"/>
+<polygon fill="black" stroke="black" points="170.17,-1014 174.67,-1024 170.17,-1017.78 170.17,-1024 170.17,-1024 170.17,-1024 170.17,-1017.78 165.67,-1024 170.17,-1014"/>
+<text text-anchor="middle" x="173.67" y="-1035" font-family="Times,serif" font-size="14.00">6</text>
+</g>
+<!-- Step39 -->
+<g id="node40" class="node">
+<title>Step39</title>
+<text text-anchor="middle" x="170.17" y="-901.8" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))));a=a;][aN2;N1];N1</text>
+</g>
+<!-- Step38&#45;&gt;Step39 -->
+<g id="edge39" class="edge">
+<title>Step38-&gt;Step39</title>
+<path fill="none" stroke="black" d="M170.17,-977.06C170.17,-965.13 170.17,-948.81 170.17,-934.92"/>
+<polygon fill="black" stroke="black" points="170.17,-925.2 174.67,-935.2 170.17,-928.98 170.17,-935.2 170.17,-935.2 170.17,-935.2 170.17,-928.98 165.67,-935.2 170.17,-925.2"/>
+<text text-anchor="middle" x="173.67" y="-946.2" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- Step40 -->
+<g id="node41" class="node">
+<title>Step40</title>
+<text text-anchor="middle" x="170.17" y="-813" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))));a=a;][a[S]N3;N1];N1</text>
+</g>
+<!-- Step39&#45;&gt;Step40 -->
+<g id="edge40" class="edge">
+<title>Step39-&gt;Step40</title>
+<path fill="none" stroke="black" d="M170.17,-888.26C170.17,-876.33 170.17,-860.01 170.17,-846.12"/>
+<polygon fill="black" stroke="black" points="170.17,-836.4 174.67,-846.4 170.17,-840.18 170.17,-846.4 170.17,-846.4 170.17,-846.4 170.17,-840.18 165.67,-846.4 170.17,-836.4"/>
+<text text-anchor="middle" x="173.67" y="-857.4" font-family="Times,serif" font-size="14.00">4</text>
+</g>
+<!-- Step41 -->
+<g id="node42" class="node">
+<title>Step41</title>
+<text text-anchor="middle" x="170.17" y="-724.2" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))));a=a;][a[aN2;N1]N3;N1];N1</text>
+</g>
+<!-- Step40&#45;&gt;Step41 -->
+<g id="edge41" class="edge">
+<title>Step40-&gt;Step41</title>
+<path fill="none" stroke="black" d="M170.17,-799.46C170.17,-787.53 170.17,-771.21 170.17,-757.32"/>
+<polygon fill="black" stroke="black" points="170.17,-747.6 174.67,-757.6 170.17,-751.38 170.17,-757.6 170.17,-757.6 170.17,-757.6 170.17,-751.38 165.67,-757.6 170.17,-747.6"/>
+<text text-anchor="middle" x="173.67" y="-768.6" font-family="Times,serif" font-size="14.00">1</text>
+</g>
+<!-- Step42 -->
+<g id="node43" class="node">
+<title>Step42</title>
+<text text-anchor="middle" x="170.17" y="-635.4" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))));a=a;][a[a=E;N1]N3;N1];N1</text>
+</g>
+<!-- Step41&#45;&gt;Step42 -->
+<g id="edge42" class="edge">
+<title>Step41-&gt;Step42</title>
+<path fill="none" stroke="black" d="M170.17,-710.66C170.17,-698.73 170.17,-682.41 170.17,-668.52"/>
+<polygon fill="black" stroke="black" points="170.17,-658.8 174.67,-668.8 170.17,-662.58 170.17,-668.8 170.17,-668.8 170.17,-668.8 170.17,-662.58 165.67,-668.8 170.17,-658.8"/>
+<text text-anchor="middle" x="173.67" y="-679.8" font-family="Times,serif" font-size="14.00">5</text>
+</g>
+<!-- Step43 -->
+<g id="node44" class="node">
+<title>Step43</title>
+<text text-anchor="middle" x="170.17" y="-546.6" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))));a=a;][a[a=aT'E';N1]N3;N1];N1</text>
+</g>
+<!-- Step42&#45;&gt;Step43 -->
+<g id="edge43" class="edge">
+<title>Step42-&gt;Step43</title>
+<path fill="none" stroke="black" d="M170.17,-621.86C170.17,-609.93 170.17,-593.61 170.17,-579.72"/>
+<polygon fill="black" stroke="black" points="170.17,-570 174.67,-580 170.17,-573.78 170.17,-580 170.17,-580 170.17,-580 170.17,-573.78 165.67,-580 170.17,-570"/>
+<text text-anchor="middle" x="177.17" y="-591" font-family="Times,serif" font-size="14.00">10</text>
+</g>
+<!-- Step44 -->
+<g id="node45" class="node">
+<title>Step44</title>
+<text text-anchor="middle" x="170.17" y="-457.8" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))));a=a;][a[a=aE';N1]N3;N1];N1</text>
+</g>
+<!-- Step43&#45;&gt;Step44 -->
+<g id="edge44" class="edge">
+<title>Step43-&gt;Step44</title>
+<path fill="none" stroke="black" d="M170.17,-533.06C170.17,-521.13 170.17,-504.81 170.17,-490.92"/>
+<polygon fill="black" stroke="black" points="170.17,-481.2 174.67,-491.2 170.17,-484.98 170.17,-491.2 170.17,-491.2 170.17,-491.2 170.17,-484.98 165.67,-491.2 170.17,-481.2"/>
+<text text-anchor="middle" x="177.17" y="-502.2" font-family="Times,serif" font-size="14.00">17</text>
+</g>
+<!-- Step45 -->
+<g id="node46" class="node">
+<title>Step45</title>
+<text text-anchor="middle" x="170.17" y="-369" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))));a=a;][a[a=a;N1]N3;N1];N1</text>
+</g>
+<!-- Step44&#45;&gt;Step45 -->
+<g id="edge45" class="edge">
+<title>Step44-&gt;Step45</title>
+<path fill="none" stroke="black" d="M170.17,-444.26C170.17,-432.33 170.17,-416.01 170.17,-402.12"/>
+<polygon fill="black" stroke="black" points="170.17,-392.4 174.67,-402.4 170.17,-396.18 170.17,-402.4 170.17,-402.4 170.17,-402.4 170.17,-396.18 165.67,-402.4 170.17,-392.4"/>
+<text text-anchor="middle" x="177.17" y="-413.4" font-family="Times,serif" font-size="14.00">12</text>
+</g>
+<!-- Step46 -->
+<g id="node47" class="node">
+<title>Step46</title>
+<text text-anchor="middle" x="170.17" y="-280.2" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))));a=a;][a[a=a;]N3;N1];N1</text>
+</g>
+<!-- Step45&#45;&gt;Step46 -->
+<g id="edge46" class="edge">
+<title>Step45-&gt;Step46</title>
+<path fill="none" stroke="black" d="M170.17,-355.46C170.17,-343.53 170.17,-327.21 170.17,-313.32"/>
+<polygon fill="black" stroke="black" points="170.17,-303.6 174.67,-313.6 170.17,-307.38 170.17,-313.6 170.17,-313.6 170.17,-313.6 170.17,-307.38 165.67,-313.6 170.17,-303.6"/>
+<text text-anchor="middle" x="173.67" y="-324.6" font-family="Times,serif" font-size="14.00">3</text>
+</g>
+<!-- Step47 -->
+<g id="node48" class="node">
+<title>Step47</title>
+<text text-anchor="middle" x="170.17" y="-191.4" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))));a=a;][a[a=a;];N1];N1</text>
+</g>
+<!-- Step46&#45;&gt;Step47 -->
+<g id="edge47" class="edge">
+<title>Step46-&gt;Step47</title>
+<path fill="none" stroke="black" d="M170.17,-266.66C170.17,-254.73 170.17,-238.41 170.17,-224.52"/>
+<polygon fill="black" stroke="black" points="170.17,-214.8 174.67,-224.8 170.17,-218.58 170.17,-224.8 170.17,-224.8 170.17,-224.8 170.17,-218.58 165.67,-224.8 170.17,-214.8"/>
+<text text-anchor="middle" x="173.67" y="-235.8" font-family="Times,serif" font-size="14.00">7</text>
+</g>
+<!-- Step48 -->
+<g id="node49" class="node">
+<title>Step48</title>
+<text text-anchor="middle" x="170.17" y="-102.6" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))));a=a;][a[a=a;];];N1</text>
+</g>
+<!-- Step47&#45;&gt;Step48 -->
+<g id="edge48" class="edge">
+<title>Step47-&gt;Step48</title>
+<path fill="none" stroke="black" d="M170.17,-177.86C170.17,-165.93 170.17,-149.61 170.17,-135.72"/>
+<polygon fill="black" stroke="black" points="170.17,-126 174.67,-136 170.17,-129.78 170.17,-136 170.17,-136 170.17,-136 170.17,-129.78 165.67,-136 170.17,-126"/>
+<text text-anchor="middle" x="173.67" y="-147" font-family="Times,serif" font-size="14.00">3</text>
+</g>
+<!-- Step49 -->
+<g id="node50" class="node">
+<title>Step49</title>
+<text text-anchor="middle" x="170.17" y="-13.8" font-family="Times,serif" font-size="14.00">a[a=(-(a*(a+(a*-(a)*a))));a=a;][a[a=a;];];</text>
+</g>
+<!-- Step48&#45;&gt;Step49 -->
+<g id="edge49" class="edge">
+<title>Step48-&gt;Step49</title>
+<path fill="none" stroke="black" d="M170.17,-89.06C170.17,-77.13 170.17,-60.81 170.17,-46.92"/>
+<polygon fill="black" stroke="black" points="170.17,-37.2 174.67,-47.2 170.17,-40.98 170.17,-47.2 170.17,-47.2 170.17,-47.2 170.17,-40.98 165.67,-47.2 170.17,-37.2"/>
+<text text-anchor="middle" x="173.67" y="-58.2" font-family="Times,serif" font-size="14.00">3</text>
+</g>
+</g>
+</svg>
