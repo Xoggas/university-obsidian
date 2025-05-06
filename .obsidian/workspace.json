@@ -11,14 +11,14 @@
             "id": "3884f661983fe8de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Универ/6 семестр/СиПУ/Практики/25.03.2025.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-git/main.js",
+                "bFile": ".obsidian/plugins/obsidian-git/main.js",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "25.03.2025"
+              "icon": "diff",
+              "title": "Diff: main.js"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5069465637207
+    "width": 340.5
   },
   "right": {
     "id": "6b492dd9e7f10425",
@@ -145,13 +145,23 @@
               "icon": "lucide-list",
               "title": "Outline of Лабораторная работа №1"
             }
+          },
+          {
+            "id": "e3e36630d8e50990",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 441.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,13 +172,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "3884f661983fe8de",
   "lastOpenFiles": [
-    "Универ/6 семестр/СиПУ/Практики/11.03.2025.md",
+    "Универ/6 семестр/МСС ПО/Лабы/Лаба 1.md",
+    "Универ/6 семестр/СиПУ/Практики/06.05.2025.md",
     "Универ/6 семестр/СиПУ/Практики/25.03.2025.md",
+    "Универ/6 семестр/СиПУ/Практики/11.03.2025.md",
     "Универ/6 семестр/МСС ПО/Лабы/Лаба 3.md",
     "Универ/6 семестр/СиПУ/Практики",
     "Универ/6 семестр/МСС ПО/Лабы/Лаба 2.md",
@@ -182,7 +195,6 @@
     "Универ/6 семестр/МСС ПО/Лабы/images/Pasted image 20250417114706 1.png",
     "Универ/5 семестр/БД/Курсовая/images/Pasted image 20250410180805.png",
     "Универ/5 семестр/БД/Курсовая/images/Pasted image 20250410180737.png",
-    "Универ/6 семестр/МСС ПО/Лабы/Лаба 1.md",
     "Универ/5 семестр/БД/Лабы/№2/Лабораторная работа №2.md",
     "БД вопросы.md",
     "Универ/5 семестр/БД/Лабы/№1/Лабораторная работа №1.md",
@@ -203,7 +215,6 @@
     "Универ/6 семестр/Компьютерные сети/Лабы/Лаба 1.md",
     "Универ/6 семестр/Методы АД/Лабы/Лаба 0.md",
     "Универ/6 семестр/Парал. Прог/Лекции/11.02.2024.md",
-    "Универ/5 семестр/Основы ИБ/Вопросы/ИБ.md",
     "Универ/5 семестр/Основы ИБ/Вопросы/images",
     "Универ/5 семестр/Основы ИБ/Вопросы",
     "Универ/5 семестр/БД/Курсовая/images",
